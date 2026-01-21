@@ -1,4 +1,4 @@
-package com.wso2.wso2.entity;
+package com.keycloak.keycloak.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
