@@ -1,2 +1,2 @@
 # KeyCloak_SpringBoot
-KeyCloak Spring Boot Resource Server
+KeyCloak Spring Boot Resource Server for identity verification 
